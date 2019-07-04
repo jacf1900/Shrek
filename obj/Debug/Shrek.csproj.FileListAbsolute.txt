@@ -1,0 +1,50 @@
+C:\Users\EFA.S37P01\Desktop\02-angela\Shrek\bin\Debug\Shrek.exe.config
+C:\Users\EFA.S37P01\Desktop\02-angela\Shrek\bin\Debug\Shrek.exe
+C:\Users\EFA.S37P01\Desktop\02-angela\Shrek\bin\Debug\Shrek.pdb
+C:\Users\EFA.S37P01\Desktop\02-angela\Shrek\obj\Debug\Shrek.csprojAssemblyReference.cache
+C:\Users\EFA.S37P01\Desktop\02-angela\Shrek\obj\Debug\Shrek.Form1.resources
+C:\Users\EFA.S37P01\Desktop\02-angela\Shrek\obj\Debug\Shrek.Properties.Resources.resources
+C:\Users\EFA.S37P01\Desktop\02-angela\Shrek\obj\Debug\Shrek.csproj.GenerateResource.cache
+C:\Users\EFA.S37P01\Desktop\02-angela\Shrek\obj\Debug\Shrek.csproj.CoreCompileInputs.cache
+C:\Users\EFA.S37P01\Desktop\02-angela\Shrek\obj\Debug\Shrek.exe
+C:\Users\EFA.S37P01\Desktop\02-angela\Shrek\obj\Debug\Shrek.pdb
+D:\Users\AF Architecture\Desktop\Shrek\bin\Debug\Shrek.exe.config
+D:\Users\AF Architecture\Desktop\Shrek\bin\Debug\Shrek.exe
+D:\Users\AF Architecture\Desktop\Shrek\bin\Debug\Shrek.pdb
+D:\Users\AF Architecture\Desktop\Shrek\obj\Debug\Shrek.csprojAssemblyReference.cache
+D:\Users\AF Architecture\Desktop\Shrek\obj\Debug\Shrek.Form1.resources
+D:\Users\AF Architecture\Desktop\Shrek\obj\Debug\Shrek.Properties.Resources.resources
+D:\Users\AF Architecture\Desktop\Shrek\obj\Debug\Shrek.csproj.GenerateResource.cache
+D:\Users\AF Architecture\Desktop\Shrek\obj\Debug\Shrek.csproj.CoreCompileInputs.cache
+D:\Users\AF Architecture\Desktop\Shrek\obj\Debug\Shrek.exe
+D:\Users\AF Architecture\Desktop\Shrek\obj\Debug\Shrek.pdb
+D:\Users\AF Architecture\Desktop\Projecto exercicios\Shrek_teste\obj\Debug\Shrek.Form1.resources
+D:\Users\AF Architecture\Desktop\Projecto exercicios\Shrek_teste\obj\Debug\Shrek.Properties.Resources.resources
+D:\Users\AF Architecture\Desktop\Projecto exercicios\Shrek_teste\obj\Debug\Shrek.csproj.GenerateResource.cache
+D:\Users\AF Architecture\Desktop\Projecto exercicios\Shrek_teste\obj\Debug\Shrek.csproj.CoreCompileInputs.cache
+D:\Users\AF Architecture\Desktop\Projecto exercicios\Shrek_teste\obj\Debug\Shrek.exe
+D:\Users\AF Architecture\Desktop\Projecto exercicios\Shrek_teste\obj\Debug\Shrek.pdb
+D:\Users\AF Architecture\Desktop\Projecto exercicios\Shrek_teste\bin\Debug\Shrek.exe.config
+D:\Users\AF Architecture\Desktop\Projecto exercicios\Shrek_teste\bin\Debug\Shrek.exe
+D:\Users\AF Architecture\Desktop\Projecto exercicios\Shrek_teste\bin\Debug\Shrek.pdb
+D:\Users\AF Architecture\Desktop\Projecto exercicios\Shrek_teste\obj\Debug\Shrek.csprojAssemblyReference.cache
+F:\Shrek_teste\bin\Debug\Shrek.exe.config
+F:\Shrek_teste\bin\Debug\Shrek.exe
+F:\Shrek_teste\bin\Debug\Shrek.pdb
+F:\Shrek_teste\obj\Debug\Shrek.csprojAssemblyReference.cache
+F:\Shrek_teste\obj\Debug\Shrek.Form1.resources
+F:\Shrek_teste\obj\Debug\Shrek.Properties.Resources.resources
+F:\Shrek_teste\obj\Debug\Shrek.csproj.GenerateResource.cache
+F:\Shrek_teste\obj\Debug\Shrek.csproj.CoreCompileInputs.cache
+F:\Shrek_teste\obj\Debug\Shrek.exe
+F:\Shrek_teste\obj\Debug\Shrek.pdb
+E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\bin\Debug\Shrek.exe.config
+E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\bin\Debug\Shrek.exe
+E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\bin\Debug\Shrek.pdb
+E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.csprojAssemblyReference.cache
+E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.Form1.resources
+E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.Properties.Resources.resources
+E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.csproj.GenerateResource.cache
+E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.csproj.CoreCompileInputs.cache
+E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.exe
+E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.pdb
