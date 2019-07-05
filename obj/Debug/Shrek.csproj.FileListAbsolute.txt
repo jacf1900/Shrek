@@ -48,3 +48,13 @@ E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.csproj.Gene
 E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.csproj.CoreCompileInputs.cache
 E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.exe
 E:\Ambiente de trabalho\Angela-projectos\Shrek_teste\obj\Debug\Shrek.pdb
+C:\Users\JF\Source\Repos\jacf1900\Shrek\bin\Debug\Shrek.exe.config
+C:\Users\JF\Source\Repos\jacf1900\Shrek\bin\Debug\Shrek.exe
+C:\Users\JF\Source\Repos\jacf1900\Shrek\bin\Debug\Shrek.pdb
+C:\Users\JF\Source\Repos\jacf1900\Shrek\obj\Debug\Shrek.csprojAssemblyReference.cache
+C:\Users\JF\Source\Repos\jacf1900\Shrek\obj\Debug\Shrek.Form1.resources
+C:\Users\JF\Source\Repos\jacf1900\Shrek\obj\Debug\Shrek.Properties.Resources.resources
+C:\Users\JF\Source\Repos\jacf1900\Shrek\obj\Debug\Shrek.csproj.GenerateResource.cache
+C:\Users\JF\Source\Repos\jacf1900\Shrek\obj\Debug\Shrek.csproj.CoreCompileInputs.cache
+C:\Users\JF\Source\Repos\jacf1900\Shrek\obj\Debug\Shrek.exe
+C:\Users\JF\Source\Repos\jacf1900\Shrek\obj\Debug\Shrek.pdb
